@@ -17,3 +17,8 @@
     text-transform: capitalize;
     cursor: pointer;
 }
+
+
+.active{
+    display: none;
+}
